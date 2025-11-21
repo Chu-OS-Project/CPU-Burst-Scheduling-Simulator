@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/cpu-scheduling-simulator//_next/:path+",
-        "destination": "/cpu-scheduling-simulator/_next/:path+"
+        "source": "/CPU-Burst-Scheduling-Simulator/cpu-scheduling-simulator//_next/:path+",
+        "destination": "/CPU-Burst-Scheduling-Simulator/cpu-scheduling-simulator/_next/:path+"
       }
     ],
     "fallback": []
