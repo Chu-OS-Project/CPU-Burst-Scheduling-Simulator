@@ -1,16 +1,14 @@
 /** @type {import('next').NextConfig} */
 
-const isProd = process.env.NODE_ENV === 'production';
-const repo = 'cpu-scheduling-simulator';
+const repo = 'CPU-Burst-Scheduling-Simulator';
 
 const nextConfig = {
   output: 'export',
-  basePath: isProd ? `/${repo}` : '',
-  assetPrefix: isProd ? `/${repo}/` : '',
+  basePath: `/${repo}`,
+  assetPrefix: `/${repo}/`,
   images: {
     unoptimized: true,
   },
-  reactCompiler: true,
   trailingSlash: true,
 };
 
