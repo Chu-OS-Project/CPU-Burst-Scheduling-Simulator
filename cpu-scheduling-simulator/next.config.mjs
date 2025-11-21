@@ -5,6 +5,7 @@ const repo = 'cpu-scheduling-simulator';
 const nextConfig = {
   output: 'export',
   basePath: `/${repo}`,
+  assetPrefix: `/${repo}/`,
   images: {
     unoptimized: true,
   },
