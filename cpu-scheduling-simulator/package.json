@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "clean": "rimraf .next out",
     "build": "next build",
-    "deploy": "next build && echo > out/.nojekyll && gh-pages -d out -t",
+    "deploy": "npm run clean && next build && echo > out/.nojekyll && gh-pages -d out -t",
     "start": "next start",
     "lint": "eslint"
   },
@@ -20,6 +21,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.0.3",
     "gh-pages": "^6.3.0",
+    "rimraf": "^6.1.2",
     "tailwindcss": "^4"
   }
 }
