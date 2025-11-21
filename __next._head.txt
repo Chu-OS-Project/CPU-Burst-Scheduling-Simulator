@@ -3,6 +3,6 @@
 4:I[97367,["/CPU-Burst-Scheduling-Simulator/_next/static/chunks/42879de7b8087bc9.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
 7:I[27201,["/CPU-Burst-Scheduling-Simulator/_next/static/chunks/42879de7b8087bc9.js"],"IconMark"]
-0:{"buildId":"JZ8G9WEIRx9Y19Dlr0kx_","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"89Mk4_6p-KK9vfI7Hu39m","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"CPU Burst Scheduling Simulator"}],["$","meta","1",{"name":"description","content":"CHU-OS-2025-2-PJ"}],["$","link","2",{"rel":"icon","href":"/CPU-Burst-Scheduling-Simulator/favicon.ico?favicon.6c844d29.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L7","3",{}]]
